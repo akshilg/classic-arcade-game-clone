@@ -6,7 +6,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 -   Download or fork the application from  [here](https://github.com/akshilg/classic-arcade-game-clone.git)
 -   Open  `index.html` in browser to start the app
 ## How to play
-*  Choose your player
-*   Get to the water
+*   Use arrow keys to move your player
 *   Avoid bugs
-*   Reach highest level possible with 3 life
+*   Get to the water 
+*   Reach highest level you can with 3 life
