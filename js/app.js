@@ -130,8 +130,8 @@ Player.prototype.handleInput = function(keyPress) {
     }
     if (this.y < 0) {
         setTimeout(function() {
-            player.x = 200;
-            player.y = 402;
+            this.x = 200;
+            this.y = 402;
         }, 600);
     }
 };
